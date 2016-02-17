@@ -4,9 +4,8 @@ title: About
 subtitle: Just who the hell you think I am?
 permalink: /about/
 ---
+Hi I am *Kuldeep Sengar*, Working as a *Senior Developer* in *Deutsche Bank - Pune, India*. I have a total of *8 years* of experience.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This blog is an attempt for writing what i work on both as hobby and professionally.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I primarily work on *Java* eco-system. But as a hobby like exploring anything that is new like - *scala*,*go*,*nodejs*,*kotlin*...
