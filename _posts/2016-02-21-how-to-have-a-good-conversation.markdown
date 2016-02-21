@@ -30,11 +30,15 @@ categories : [ted]
   - Don't get stuck to a thought while listening to a conversation (thinking of a really nice question you want to ask)
   - Stories and ideas will come to you, let them come and go.
 5. *If you don't know, say that you don't know*
+
   > Talk should not be cheap
+
 6. *Don't equate your experience with theirs*
   - It is not about you
   - If they talk about having lost a family member don't start talking about the time you lost a family member.
+
   > Conversations are not a promotional opportunity
+
 7. *Try not to repeat yourself*
   - It's condescending, and boring.
   - Don't keep repeating and rephrasing to make a point.
@@ -44,8 +48,9 @@ categories : [ted]
   - They care about you(what you're like, what you have in common)
 
 9. *Listen*
+
   > If your mouth is open, you're not learning
 
 10. *Be brief*
+
   > A good conversation is like a miniskirt; short enough to retain interest, but long enough to cover the subject.
-  
