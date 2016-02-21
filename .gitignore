@@ -4,5 +4,6 @@ _site
 =======
 _site/
 .sass-cache/
+.DS_Store
 >>>>>>> ff1e3b9d5919cd0f48c29b8ca47227794e46660d
 .jekyll-metadata
