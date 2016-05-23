@@ -1,4 +1,2 @@
 gem 'kramdown'
 gem 'coderay'
-
-
