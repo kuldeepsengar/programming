@@ -7,7 +7,7 @@ categories : [tool]
 ---
 > A Ceremony is the preparation, a ritual, conducted for doing a particular *thing*
 
-- Ceremony
+In Java - Ceremony
 
 
 ```
@@ -21,8 +21,7 @@ categories : [tool]
   }
 
 ```
-In Scala
-- Essence
+In Scala - Essence
 
 
 ```
