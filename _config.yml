@@ -25,4 +25,4 @@ exclude: ["README.md", "README.html"]
 
 # Build settings
 highlighter: rouge
-markdown: kramdown
+markdown: redcarpet 
