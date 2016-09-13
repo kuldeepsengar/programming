@@ -22,7 +22,7 @@ You just need to extract the zip and start using processing.
 ## Simple program to draw
 
 ~~~~
-int getRandomY(){
+int getRandomCoordinate(){
   return int(random(600));
 }
 int getRandomColor(){
@@ -34,7 +34,7 @@ void setup(){
 }
 void draw(){
   stroke(getRandomColor());
-  line(300,300,getRandomY(),getRandomY());
+  line(300,300,getRandomCoordinate(),getRandomCoordinate());
 }
 ~~~~
 
